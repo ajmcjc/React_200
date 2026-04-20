@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "id": "964d",
+      "sname": "Abc",
+      "email": "abc@gmail.com",
+      "password": "abc123",
+      "dob": "2019-05-22",
+      "contact": "9768903456",
+      "batch": "B101",
+      "fees": "5000",
+      "gender": "male",
+      "courses": [
+        "java",
+        "spring"
+      ],
+      "address": {
+        "pincode": "456712",
+        "area": "Karve Nagar",
+        "city": "Pune"
+      }
+    }
+  ]
+}
